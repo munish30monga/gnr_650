@@ -1,8 +1,5 @@
-<div align="center">
-  <h1>GNR 650 - Course Repo</h1>
-  <h2>Advanced topics in deep learning for image analysis</h2>
-</div>
-
+# GNR 650 - Course Repo
+## Advanced topics in deep learning for image analysis
 >Repo for assignments and projects in GNR 650 course
 
 ## Assignment 1
