@@ -1,6 +1,6 @@
 # GNR 650 - Course Repo
 ## Advanced topics in deep learning for image analysis
->Repo for assignments and projects in GNR 650 course
+>Repo for assignments and project in GNR 650 course
 
 ## Assignment 1
 > The task is to take the structure of ResNet-18 model, and train it from scratch on CIFAR10 data, but take very few samples per class. After training, check the test performance. Check the magnitudes of the weights, visualize the kernels at different layers.
