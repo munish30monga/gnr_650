@@ -12,6 +12,12 @@
 > 3. Full fine tune on the eurosat data 
 > 4. No fine tuning
 
+## Dependencies
+- Install the requirements using: 
+  >`pip install -r requirements.txt` or
+   
+  >`conda env create -f gnr_env.yml`
+   
 ### Collaborators:
 >[![Munish](https://img.shields.io/badge/22M2153-Munish_Monga-blue)](https://github.com/munish30monga)
 [![Aniket](https://img.shields.io/badge/22M2162-Aniket_Thomas-darkgreen)](https://github.com/AniTho)
