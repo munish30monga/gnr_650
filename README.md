@@ -12,6 +12,9 @@
 > 3. Full fine tune on the eurosat data 
 > 4. No fine tuning
 
+## Assignment 3: Jigsaw SSL on CIFAR10
+> Task is to code the Jigsaw SSL and patch prediction SSL for the downstream task of image classification on CIFAR and perform an attention/gradcam analysis of the results.
+
 ## Paper Review 1: "*ViViT: A Video Vision Transformer*”
 > The task is to write a one page review on this paper: [ViViT: A Video Vision Transformer](https://arxiv.org/abs/2103.15691). The review should contain motivation, novelties, major contributions, and critical analysis (highlighting potential disadvantages).
 
