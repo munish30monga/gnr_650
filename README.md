@@ -31,5 +31,5 @@
   conda env create -f gnr_env.yml
   ```   
 ### Collaborators:
->[![Munish](https://img.shields.io/badge/22M2153-Munish_Monga-blue)](https://github.com/munish30monga)
-[![Aniket](https://img.shields.io/badge/22M2162-Aniket_Thomas-darkgreen)](https://github.com/AniTho)
+[![Munish](https://img.shields.io/badge/22M2153-Munish_Monga-blue)](https://github.com/munish30monga)
+[![Aniket](https://img.shields.io/badge/22M2153-Aniket_Thomas-darkgreen)](https://github.com/AniTho)
