@@ -18,6 +18,9 @@
 ## Paper Review 1: "*ViViT: A Video Vision Transformer*”
 > The task is to write a one page review on this paper: [ViViT: A Video Vision Transformer](https://arxiv.org/abs/2103.15691). The review should contain motivation, novelties, major contributions, and critical analysis (highlighting potential disadvantages).
 
+## Paper Review 2: "*Universal Domain Adaptation through Self-Supervision*”
+> The task is to write a one page review on this paper: [Universal Domain Adaptation through Self-Supervision](https://arxiv.org/abs/2002.07953). The review should contain motivation, novelties, major contributions, and critical analysis (highlighting potential disadvantages).
+
 ## Dependencies
 > Install the requirements using: 
   ```python
