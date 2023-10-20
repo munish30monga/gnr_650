@@ -12,7 +12,7 @@
 > 3. Full fine tune on the eurosat data 
 > 4. No fine tuning
 
-## Assignment 3: Jigsaw SSL on CIFAR10
+## Assignment 3: Jigsaw & Patch Prediction SSL on CIFAR10
 > Task is to code the Jigsaw SSL and patch prediction SSL for the downstream task of image classification on CIFAR and perform an attention/gradcam analysis of the results.
 
 ## Paper Review 1: "*ViViT: A Video Vision Transformer*”
